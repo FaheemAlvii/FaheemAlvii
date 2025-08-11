@@ -69,6 +69,7 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -116,7 +117,11 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎯 **OSM Tool** | Odoo Server Manager API | Python, FastAPI, Docker |
-| 🤖 **Scraping Bots** | Data extraction automation | Python, Selenium, BeautifulSoup |
+| 🤖 **Scraping Bots** | Large-scale data extraction: 100K+ products from WordPress & custom websites in 24h | Python, Selenium, BeautifulSoup |
+| 🎮 **Apex Legends Bot** | Game automation for account farming | Python, PyAutoGUI, Mouse/Keyboard inputs |
+| 📱 **Discord & Telegram Bots** | User onboarding automation | Python, Discord.py, Telegram Bot API |
+| 💬 **WhatsApp AI Chatbot** | AI-powered chatbot using WhatsApp API & OpenRouter for intelligent responses | Python, WhatsApp API, OpenRouter API, Webhooks |
+| 🤖 **AI Support Automation** | Automated server side tasks using AI system prompting & JSON structured responses | Python, AI APIs, JSON, System Prompting |
 | 🐳 **Proxmox Tools** | Infrastructure automation | Bash, LXC, Proxmox VE |
 | 🌐 **Web APIs** | High-performance services | Go, Gin, PostgreSQL |
 
