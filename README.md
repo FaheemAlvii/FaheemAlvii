@@ -14,11 +14,11 @@
 
 > **"The best way to predict the future is to invent it."** - Alan Kay
 
-Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevOps Engineer** with a love for building robust, scalable solutions. At 25, I've been crafting digital experiences for **7+ years** at **Geek Tech Sol**, where I've evolved from a Python enthusiast to a **full-stack developer with comprehensive infrastructure expertise**.
+Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevOps Engineer** with a love for building robust, scalable solutions. At 25, I'm the **CEO & Co-Founder of Geek Tech Sol**, where I've been crafting digital experiences for **7+ years**, evolving from a Python enthusiast to a **full-stack developer with comprehensive infrastructure expertise**.
 
 I'm a **100% self-taught developer** who chose practical learning over formal education, and this approach has been my greatest strength. I specialize in **AI-powered automation**, **large-scale web scraping**, **game automation**, and **enterprise infrastructure management**. From building custom Odoo solutions to deploying self-hosted AI models, I love turning complex challenges into elegant, automated solutions.
 
-**🎯 Core Strengths:** AI Integration • Infrastructure Automation • Large-Scale Data Processing • Customer Support Excellence • Self-Taught Excellence
+**🎯 Core Strengths:** AI Integration • Infrastructure Automation • Large-Scale Data Processing • Customer Support Excellence • Self-Taught Excellence • Entrepreneurship & Leadership
 
 ---
 
@@ -26,14 +26,15 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 
 > **"Success is not final, failure is not fatal: it is the courage to continue that counts."** - Winston Churchill
 
-### **Geek Tech Sol** - *Senior Developer & Infrastructure Specialist* (7+ Years)
-- 🎯 **Developed** the **OSM Tool** (Odoo Server Manager API) - A game-changing alternative to Odoo.sh
+### **Geek Tech Sol** - *CEO & Founder* (7+ Years)
+- 🎯 **Founded & Developed** the **OSM Tool** (Odoo Server Manager API) - A game-changing alternative to Odoo.sh
 - 🌟 **Led** large-scale automation projects processing **100K+ products** in 24 hours
-- 🚀 **Deployed** production Odoo servers and managed customer infrastructure
+- 🚀 **Architected** production Odoo servers and managed customer infrastructure
 - 🤖 **Pioneered** AI integration projects including WhatsApp chatbots and support automation
-- ☁️ **Architected** cloud solutions across AWS, Digital Ocean, and Google Cloud
-- 🤝 **Collaborated** with international clients, providing hosted solutions and 24/7 support
-- 📊 **Managed** code quality assurance and testing for team members' applications
+- ☁️ **Designed** cloud solutions across AWS, Digital Ocean, and Google Cloud
+- 🤝 **Built** international client relationships, providing hosted solutions and 24/7 support
+- 📊 **Established** code quality assurance and testing standards for team members
+- 💼 **Grew** the company from startup
 
 ---
 
@@ -62,6 +63,10 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 ![LXC](https://img.shields.io/badge/LXC-000000?style=for-the-badge&logo=lxc&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![ESXi](https://img.shields.io/badge/ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -112,6 +117,7 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 
 ### **☁️ Infrastructure & DevOps Mastery**
 - **Multi-Cloud Expertise** - AWS, Digital Ocean, Google Cloud with cost optimization
+- **On-Premise Infrastructure** - Debian, Ubuntu, Proxmox, ESXi, VMware, VirtualBox for enterprise environments
 - **Container Orchestration** - Proxmox VE, LXC, Docker for scalable deployments
 - **Proxmox Clustering** - Multi-node clusters with container replication and high availability in production environments
 - **Reverse Proxy & Load Balancing** - Nginx and Traefik for domain-based routing with SSL termination
@@ -230,6 +236,6 @@ I'm a **100% self-taught developer** who left formal studies to pursue practical
 
 <div align="center">
   
-  **Made with ❤️ by Faheem Alvi | Senior Developer & Infrastructure Specialist**
+  **Made with ❤️ by Faheem Alvi | CEO & Founder of Geek Tech Sol**
   
 </div>
