@@ -58,7 +58,7 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 
 ### **Infrastructure & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-FF6B35?style=for-the-badge&logo=proxmox&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox_Clustering-FF6B35?style=for-the-badge&logo=proxmox&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-000000?style=for-the-badge&logo=lxc&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -113,6 +113,7 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 ### **☁️ Infrastructure & DevOps Mastery**
 - **Multi-Cloud Expertise** - AWS, Digital Ocean, Google Cloud with cost optimization
 - **Container Orchestration** - Proxmox VE, LXC, Docker for scalable deployments
+- **Proxmox Clustering** - Multi-node clusters with container replication and high availability in production environments
 - **Reverse Proxy & Load Balancing** - Nginx and Traefik for domain-based routing with SSL termination
 - **Advanced Cloudflare Solutions** - Tunnels for secure reverse connections without static IPs, Access for custom authentication policies
 - **Private Networking** - Tailscale and Netbird for secure, zero-trust connections
@@ -187,7 +188,7 @@ I'm a **100% self-taught developer** who left formal studies to pursue practical
 - **🤖 AI Collaboration** - Using AI tools to enhance productivity and learning
 - **📚 Best Practices** - Following industry standards and learning from the community
 - **🔄 Iterative Improvement** - Constantly refining skills through real-world application
-- **🌍 Community Learning** - Contributing to and learning from the developer community
+- **�� Community Learning** - Contributing to and learning from the developer community
 
 *My self-taught journey has taught me that the best education comes from building, breaking, and rebuilding solutions that solve real-world problems.*
 
