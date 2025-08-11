@@ -35,6 +35,7 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,6 +67,8 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 
 ### **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -171,8 +174,6 @@ I believe in:
   ### **"Code, Deploy, Automate, Repeat"** 🔄
   
   *Thanks for visiting my profile! Let's build something amazing together!* 🚀
-  
-  ![Profile Footer](https://github.com/FaheemAlvii/FaheemAlvii/blob/main/images/footer.png)
   
 </div>
 
