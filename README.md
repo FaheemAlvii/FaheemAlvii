@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=FaheemAlvii&color=blue&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/FaheemAlvii?label=Followers&style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/FaheemAlvii?label=Stars&style=social)
+  ![GitHub Contribution Grid Snake](https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=FaheemAlvii&theme=dark)
+  
+  ![GitHub Contribution Grid Snake Light](https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=FaheemAlvii&theme=light)
   
 </div>
 
@@ -49,6 +49,22 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 ![Proxmox](https://img.shields.io/badge/Proxmox-FF6B35?style=for-the-badge&logo=proxmox&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-000000?style=for-the-badge&logo=lxc&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-FF6B35?style=for-the-badge&logo=tailscale&logoColor=white)
+
+### **Web Hosting & Server Management**
+![HestiaCP](https://img.shields.io/badge/HestiaCP-FF6B35?style=for-the-badge&logo=hestia&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=dns&logoColor=white)
+![SSL](https://img.shields.io/badge/SSL-000000?style=for-the-badge&logo=ssl&logoColor=white)
+![SFTP](https://img.shields.io/badge/SFTP-000000?style=for-the-badge&logo=sftp&logoColor=white)
+![SCP](https://img.shields.io/badge/SCP-000000?style=for-the-badge&logo=scp&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 ### **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -74,6 +90,16 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 - **Proxmox VE** - LXC container orchestration
 - **Docker** - Containerization and deployment
 - **Server Management** - Production server deployment and maintenance
+- **Cloud Platforms** - AWS, Digital Ocean, Google Cloud
+- **Linux Systems** - Ubuntu and other distributions
+- **Cloudflare Services** - DNS management, tunnels, and zero trust applications
+- **Private Networking** - Tailscale and Netbird for secure connections
+- **Backup Solutions** - PBS (Proxmox Backup Server), Rclone, SFTP, SCP for remote backups
+- **Web Hosting Setup** - Building web hosting servers from scratch using HestiaCP, CWP
+- **Email Infrastructure** - Setting up email servers and managing email users
+- **Domain & SSL Management** - Domain configuration with Let's Encrypt SSL certificates
+- **Application Deployment** - Installing WordPress and other applications with database setup
+- **PWA Development** - Building Progressive Web Apps for mobile support
 
 ### **📱 Odoo Development**
 - **Custom Addons** - AI-assisted Odoo module development
@@ -93,20 +119,6 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 | 🐳 **Proxmox Tools** | Infrastructure automation | Bash, LXC, Proxmox VE |
 | 🌐 **Web APIs** | High-performance services | Go, Gin, PostgreSQL |
 
-</div>
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  
-  ![Faheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaheemAlvii&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaheemAlvii&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=FaheemAlvii&show_icons=true&theme=radical&hide=contribs,issues&count_private=true)
-  
 </div>
 
 ---
@@ -169,8 +181,6 @@ I believe in:
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=FaheemAlvii&color=blue&style=flat-square)
   
   **Made with ❤️ by Faheem Alvi**
   
