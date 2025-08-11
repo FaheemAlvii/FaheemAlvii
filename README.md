@@ -81,6 +81,8 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 
 ### **Web Hosting & Server Management**
 ![HestiaCP](https://img.shields.io/badge/HestiaCP-FF6B35?style=for-the-badge&logo=hestia&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![CWP](https://img.shields.io/badge/CWP_Control_Panel-FF6B35?style=for-the-badge&logo=centos&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=dns&logoColor=white)
@@ -126,7 +128,8 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 - **Backup & Recovery** - PBS, Rclone, SFTP, SCP for enterprise-grade data protection
 
 ### **🌍 Web Hosting & Enterprise Solutions**
-- **Server Architecture** - Building web hosting servers from scratch using HestiaCP, CWP
+- **Server Architecture** - Building web hosting servers from scratch using HestiaCP, CWP, and cPanel
+- **Web Panel Management** - Comprehensive experience with cPanel, CWP (Control Web Panel), and HestiaCP
 - **Reverse Proxy Setup** - Configuring Nginx/Traefik for domain-based routing with SSL termination
 - **Advanced Security** - Cloudflare Tunnels for secure connections, Access for custom authentication policies
 - **Email Infrastructure** - Complete email server setup and user management
@@ -194,7 +197,7 @@ I'm a **100% self-taught developer** who left formal studies to pursue practical
 - **🤖 AI Collaboration** - Using AI tools to enhance productivity and learning
 - **📚 Best Practices** - Following industry standards and learning from the community
 - **🔄 Iterative Improvement** - Constantly refining skills through real-world application
-- **�� Community Learning** - Contributing to and learning from the developer community
+- **💾 Community Learning** - Contributing to and learning from the developer community
 
 *My self-taught journey has taught me that the best education comes from building, breaking, and rebuilding solutions that solve real-world problems.*
 
