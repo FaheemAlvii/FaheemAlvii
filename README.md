@@ -12,15 +12,19 @@
 
 > **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
+> **"The best way to predict the future is to invent it."** - Alan Kay
+
 Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevOps Engineer** with a love for building robust, scalable solutions. At 25, I've been crafting digital experiences for **7+ years** at **Geek Tech Sol**, where I've evolved from a Python enthusiast to a **full-stack developer with comprehensive infrastructure expertise**.
 
-I specialize in **AI-powered automation**, **large-scale web scraping**, **game automation**, and **enterprise infrastructure management**. From building custom Odoo solutions to deploying self-hosted AI models, I love turning complex challenges into elegant, automated solutions.
+I'm a **100% self-taught developer** who chose practical learning over formal education, and this approach has been my greatest strength. I specialize in **AI-powered automation**, **large-scale web scraping**, **game automation**, and **enterprise infrastructure management**. From building custom Odoo solutions to deploying self-hosted AI models, I love turning complex challenges into elegant, automated solutions.
 
-**🎯 Core Strengths:** AI Integration • Infrastructure Automation • Large-Scale Data Processing • Customer Support Excellence
+**🎯 Core Strengths:** AI Integration • Infrastructure Automation • Large-Scale Data Processing • Customer Support Excellence • Self-Taught Excellence
 
 ---
 
 ## 🏢 **Professional Journey**
+
+> **"Success is not final, failure is not fatal: it is the courage to continue that counts."** - Winston Churchill
 
 ### **Geek Tech Sol** - *Senior Developer & Infrastructure Specialist* (7+ Years)
 - 🎯 **Developed** the **OSM Tool** (Odoo Server Manager API) - A game-changing alternative to Odoo.sh
@@ -89,6 +93,8 @@ I specialize in **AI-powered automation**, **large-scale web scraping**, **game 
 
 ## 🎯 **Core Specializations**
 
+> **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
+
 ### **🤖 AI & Automation Excellence**
 - **AI-Powered Bots** - WhatsApp chatbots, Discord/Telegram automation, and intelligent support systems
 - **Large-Scale Scraping** - Processing 100K+ products from WordPress and custom websites in 24 hours
@@ -122,6 +128,8 @@ I specialize in **AI-powered automation**, **large-scale web scraping**, **game 
 
 ## 🚀 **Featured Projects & Achievements**
 
+> **"The only way to do great work is to love what you do."** - Steve Jobs
+
 *Showcasing innovative solutions that demonstrate technical excellence and business impact*
 
 <div align="center">
@@ -143,6 +151,8 @@ I specialize in **AI-powered automation**, **large-scale web scraping**, **game 
 
 ## 🌟 **What I Bring to the Table**
 
+> **"Excellence is not a skill. It's an attitude."** - Ralph Marston
+
 - **🎯 Problem Solver** - Turning complex requirements into elegant, scalable solutions
 - **🚀 Fast Learner** - Adapting to new technologies and frameworks quickly
 - **🤖 AI Integration Expert** - Seamlessly integrating AI into existing workflows and applications
@@ -156,15 +166,22 @@ I specialize in **AI-powered automation**, **large-scale web scraping**, **game 
 
 ---
 
-## 🎓 **Learning Philosophy**
+## 🎓 **Learning Philosophy & Journey**
 
 > **"The best code is no code at all, but when you must write it, make it beautiful."**
 
-I believe in:
-- **Code Quality** - Clean, maintainable, and well-tested code
-- **Continuous Learning** - Always exploring new technologies
-- **AI Collaboration** - Using AI tools to enhance productivity
-- **Best Practices** - Following industry standards and patterns
+### **🚀 Self-Taught Excellence**
+I'm a **100% self-taught developer** who left formal studies to pursue practical, hands-on learning. This journey has given me a unique advantage - I learn by doing, solving real problems, and building actual solutions rather than just studying theory.
+
+### **💡 What I Believe In:**
+- **🎯 Practical Learning** - Learning through real projects and challenges
+- **🚀 Continuous Growth** - Always exploring new technologies and pushing boundaries
+- **🤖 AI Collaboration** - Using AI tools to enhance productivity and learning
+- **📚 Best Practices** - Following industry standards and learning from the community
+- **🔄 Iterative Improvement** - Constantly refining skills through real-world application
+- **🌍 Community Learning** - Contributing to and learning from the developer community
+
+*My self-taught journey has taught me that the best education comes from building, breaking, and rebuilding solutions that solve real-world problems.*
 
 ---
 
@@ -191,6 +208,8 @@ I believe in:
 ---
 
 <div align="center">
+  
+  > **"The future belongs to those who believe in the beauty of their dreams."** - Eleanor Roosevelt
   
   ### **"Code, Deploy, Automate, Repeat"** 🔄
   
