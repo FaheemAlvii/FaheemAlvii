@@ -66,9 +66,13 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Tunnels](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Access](https://img.shields.io/badge/Cloudflare_Access-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-FF6B35?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-1F93FF?style=for-the-badge&logo=traefik&logoColor=white)
 
 ### **Web Hosting & Server Management**
 ![HestiaCP](https://img.shields.io/badge/HestiaCP-FF6B35?style=for-the-badge&logo=hestia&logoColor=white)
@@ -109,11 +113,15 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 ### **☁️ Infrastructure & DevOps Mastery**
 - **Multi-Cloud Expertise** - AWS, Digital Ocean, Google Cloud with cost optimization
 - **Container Orchestration** - Proxmox VE, LXC, Docker for scalable deployments
+- **Reverse Proxy & Load Balancing** - Nginx and Traefik for domain-based routing with SSL termination
+- **Advanced Cloudflare Solutions** - Tunnels for secure reverse connections without static IPs, Access for custom authentication policies
 - **Private Networking** - Tailscale and Netbird for secure, zero-trust connections
 - **Backup & Recovery** - PBS, Rclone, SFTP, SCP for enterprise-grade data protection
 
 ### **🌍 Web Hosting & Enterprise Solutions**
 - **Server Architecture** - Building web hosting servers from scratch using HestiaCP, CWP
+- **Reverse Proxy Setup** - Configuring Nginx/Traefik for domain-based routing with SSL termination
+- **Advanced Security** - Cloudflare Tunnels for secure connections, Access for custom authentication policies
 - **Email Infrastructure** - Complete email server setup and user management
 - **SSL & Security** - Domain configuration with Let's Encrypt and security hardening
 - **Application Deployment** - WordPress, custom apps with database optimization
