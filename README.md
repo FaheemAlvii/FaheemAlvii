@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![GitHub Contribution Grid Snake](https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=FaheemAlvii&theme=dark)
+  ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/FaheemAlvii/FaheemAlvii/refs/heads/main/github-contribution-grid-snake-dark.svg)
   
-  ![GitHub Contribution Grid Snake Light](https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=FaheemAlvii&theme=light)
+  ![GitHub Contribution Grid Snake Light](https://raw.githubusercontent.com/FaheemAlvii/FaheemAlvii/refs/heads/main/github-contribution-grid-snake.svg)
   
 </div>
 
