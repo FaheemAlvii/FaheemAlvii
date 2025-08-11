@@ -54,6 +54,8 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-FF6B35?style=for-the-badge&logo=tailscale&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white)
 
 ### **Web Hosting & Server Management**
 ![HestiaCP](https://img.shields.io/badge/HestiaCP-FF6B35?style=for-the-badge&logo=hestia&logoColor=white)
@@ -102,6 +104,7 @@ Hey there! I'm **Faheem Alvi**, a passionate **Full-Stack Developer** and **DevO
 - **Domain & SSL Management** - Domain configuration with Let's Encrypt SSL certificates
 - **Application Deployment** - Installing WordPress and other applications with database setup
 - **PWA Development** - Building Progressive Web Apps for mobile support
+- **Self-Hosted AI** - Running LLMs locally using Ollama and LM Studio
 
 ### **📱 Odoo Development**
 - **Custom Addons** - AI-assisted Odoo module development
