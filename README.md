@@ -57,11 +57,19 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Frontend Development**
+### **Web Scraping & Data Processing**
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **Frontend Development** *(AI-Assisted)*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+*While frontend isn't my primary focus, I can effectively work with it using AI assistance and have a solid understanding of web structures and modern frameworks.*
 
 ### **Infrastructure & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -73,17 +81,26 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![ESXi](https://img.shields.io/badge/ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### **Cloud & Server Providers**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![IONOS](https://img.shields.io/badge/IONOS-003D4F?style=for-the-badge&logo=ionos&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-0066FF?style=for-the-badge&logo=hostinger&logoColor=white)
+
+### **Networking & Security**
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cloudflare Tunnels](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cloudflare Access](https://img.shields.io/badge/Cloudflare_Access-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-FF6B35?style=for-the-badge&logo=tailscale&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-1F93FF?style=for-the-badge&logo=traefik&logoColor=white)
+
+### **AI & Development Tools**
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white)
 
 ### **Web Hosting & Server Management**
 ![HestiaCP](https://img.shields.io/badge/HestiaCP-FF6B35?style=for-the-badge&logo=hestia&logoColor=white)
@@ -114,7 +131,7 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 
 ### **🤖 AI & Automation Excellence**
 - **AI-Powered Bots** - WhatsApp chatbots, Discord/Telegram automation, and intelligent support systems
-- **Large-Scale Scraping** - Processing 100K+ products from WordPress and custom websites in 24 hours
+- **Large-Scale Scraping** - Advanced web scraping using Requests, BeautifulSoup, and Pillow for processing 100K+ products from WordPress & custom websites in 24 hours
 - **Browser Automation** - Advanced web automation using Selenium & Playwright for account generation, form filling, and complex web workflows
 - **Game Automation** - Advanced PyAutoGUI implementations for complex gaming workflows
 - **Self-Hosted AI** - Deploying and managing LLMs locally using Ollama and LM Studio
@@ -125,7 +142,7 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 - **RESTful Design** - Clean, scalable API architectures with comprehensive testing
 
 ### **☁️ Infrastructure & DevOps Mastery**
-- **Multi-Cloud Expertise** - AWS, Digital Ocean, Google Cloud with cost optimization
+- **Multi-Cloud Expertise** - Comprehensive experience with AWS, Google Cloud, Digital Ocean, Hetzner, IONOS, and Hostinger for cost-optimized solutions
 - **On-Premise Infrastructure** - Debian, Ubuntu, Proxmox, ESXi, VMware, VirtualBox for enterprise environments
 - **Container Orchestration** - Proxmox VE, LXC, Docker for scalable deployments
 - **Proxmox Clustering** - Multi-node clusters with container replication and high availability in production environments
@@ -228,7 +245,7 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 - **🎯 Problem Solver** - Turning complex requirements into elegant, scalable solutions
 - **🚀 Fast Learner** - Adapting to new technologies and frameworks quickly
 - **🤖 AI Integration Expert** - Seamlessly integrating AI into existing workflows and applications
-- **📱 Full-Stack Mastery** - From backend APIs to frontend interfaces with mobile-first design
+- **📱 Full-Stack Capability** - Strong backend APIs with AI-assisted frontend development and understanding of modern web structures
 - **☁️ DevOps Architect** - Infrastructure as code, automation, and multi-cloud optimization
 - **🌍 Global Experience** - Working with international clients and managing distributed teams
 - **💼 Business Acumen** - Understanding customer needs and delivering value-driven solutions
