@@ -51,6 +51,12 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
+### **Automation & Testing**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -109,6 +115,7 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 ### **🤖 AI & Automation Excellence**
 - **AI-Powered Bots** - WhatsApp chatbots, Discord/Telegram automation, and intelligent support systems
 - **Large-Scale Scraping** - Processing 100K+ products from WordPress and custom websites in 24 hours
+- **Browser Automation** - Advanced web automation using Selenium & Playwright for account generation, form filling, and complex web workflows
 - **Game Automation** - Advanced PyAutoGUI implementations for complex gaming workflows
 - **Self-Hosted AI** - Deploying and managing LLMs locally using Ollama and LM Studio
 
@@ -143,6 +150,53 @@ I'm a **100% self-taught developer** who chose practical learning over formal ed
 - **OSM Tool** - Proprietary Odoo server management solution with enterprise features
 
 ---
+
+## 🚀 **Technologies I'm Learning & Excited About**
+
+> **"The only way to learn a new programming language is by writing programs in it."** - Dennis Ritchie
+
+*I'm constantly expanding my knowledge and diving deep into cutting-edge technologies that will shape the future of software development and infrastructure.*
+
+### **🤖 AI & LLMs**
+![AI](https://img.shields.io/badge/AI-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+
+*Exploring advanced AI concepts, building custom models, and integrating cutting-edge AI solutions into production environments.*
+
+### **🐹 Go (Golang)**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+*Mastering Go's concurrency patterns, building high-performance microservices, and exploring Go's ecosystem for cloud-native applications.*
+
+### **☸️ Kubernetes & Container Orchestration**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argoproj&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+
+*Learning Kubernetes architecture, service mesh implementations, and advanced container orchestration patterns for scalable deployments.*
+
+### **🔄 DevOps & CI/CD**
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+*Building robust CI/CD pipelines, infrastructure as code, and automated deployment workflows for modern applications.*
+
+### **🚀 GitOps & Infrastructure Automation**
+![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=git&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux-326CE5?style=for-the-badge&logo=flux&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+
+*Implementing GitOps workflows, managing infrastructure through Git, and building self-healing, declarative infrastructure systems.*
+
+---
+
 
 ## 🚀 **Featured Projects & Achievements**
 
